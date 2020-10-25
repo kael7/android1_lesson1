@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="city_name">Алматы</string>
+    <string name="weather_name">Пасмурно</string>
+    <string name="temp">7°</string>
+    <string name="temp_max">Макс. 17°</string>
+    <string name="temp_min">Мин. 5°</string>
+</resources>
